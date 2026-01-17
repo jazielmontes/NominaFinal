@@ -56,7 +56,7 @@ body {
 
   background:
     linear-gradient(to top, rgba(0, 128, 255, 0.95), rgba(249,250,251,0)),
-    url("../assets/image2.png");
+    url("assets/image2.png");
 
   background-repeat: no-repeat;
   background-position: center bottom;
